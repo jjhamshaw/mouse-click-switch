@@ -12,9 +12,9 @@ How to use it
 =============
 When the app is running, a "handy" icon will appear in your system tray, showing you if your mouse is set up to be left-handed or right-handed.
 
-![Alt text](./ReadmeImages/left-handed.png "Mouse set up as left-handed")
+![Alt text](./ReadmeImages/left_handed_systemtray.png "Mouse set up as left-handed")
 
-![Alt text](./ReadmeImages/right-handed.png "Mouse set up as right-handed")
+![Alt text](./ReadmeImages/right_handed_systemtray.png "Mouse set up as right-handed")
 
 You can either:
 - click this icon with your primary mouse button to switch your buttons
