@@ -1,7 +1,7 @@
 mouse-click-switch
 ==================
 
-a system try app to easily switch mouse buttons to left or right handed
+This is a simple system try app to easily switch mouse buttons to left or right-handed configuration, to bypass the control panel.
 
 Why write this?
 ===============
